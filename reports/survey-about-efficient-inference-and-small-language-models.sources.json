@@ -1,0 +1,138 @@
+[
+  {
+    "n": 1,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2025-02-26 (arXiv record; manuscript identifies July 2024)",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2025.acl-long.718",
+    "url": "https://aclanthology.org/2025.acl-long.718/",
+    "title": "Demystifying Small Language Models for Edge Deployment",
+    "date": "2025-07-27 to 2025-08-01",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2306.11644",
+    "url": "https://arxiv.org/abs/2306.11644",
+    "title": "Textbooks Are All You Need",
+    "date": "2023",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2402.14905",
+    "url": "https://arxiv.org/abs/2402.14905",
+    "title": "MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases",
+    "date": "2024",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2401.02385",
+    "url": "https://arxiv.org/abs/2401.02385",
+    "title": "TinyLlama: An Open-Source Small Language Model",
+    "date": "2024-06-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2502.02737",
+    "url": "https://arxiv.org/abs/2502.02737",
+    "title": "SmolLM2: When Smol Goes Big — Data-Centric Training of a Small Language Model",
+    "date": "2025",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2306.00978",
+    "url": "https://arxiv.org/abs/2306.00978",
+    "title": "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration",
+    "date": "2024 (MLSys proceedings)",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2211.17192",
+    "url": "https://arxiv.org/abs/2211.17192",
+    "title": "Fast Inference from Transformers via Speculative Decoding",
+    "date": "2022-11-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2309.06180",
+    "url": "https://arxiv.org/abs/2309.06180",
+    "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+    "date": "2023-09-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2307.08691",
+    "url": "https://arxiv.org/abs/2307.08691",
+    "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+    "date": "2023-07-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "N/A",
+    "url": "https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/",
+    "title": "Mastering LLM Techniques: Inference Optimization",
+    "date": "2023-11-17",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "arXiv:2506.07900",
+    "url": "https://huggingface.co/papers/2506.07900",
+    "title": "MiniCPM4: Ultra-Efficient LLMs on End Devices",
+    "date": "2025-06-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "arXiv:2507.19608",
+    "url": "https://huggingface.co/papers/2507.19608",
+    "title": "DeltaLLM: A Training-Free Framework Exploiting Temporal Sparsity for Efficient Edge LLM Inference",
+    "date": "2025-07-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "arXiv:2503.12167",
+    "url": "https://huggingface.co/papers/2503.12167",
+    "title": "PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing",
+    "date": "2025-03-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2503.06519",
+    "url": "https://arxiv.org/abs/2503.06519",
+    "title": "Can Small Language Models Reliably Resist Jailbreak Attacks? A Comprehensive Evaluation",
+    "date": "2025-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2409.00088",
+    "url": "https://arxiv.org/html/2409.00088v1",
+    "title": "On-Device Language Models: A Comprehensive Review",
+    "date": "2024",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2404.06395",
+    "url": "https://arxiv.org/abs/2404.06395",
+    "title": "MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies",
+    "date": "2024-06-03",
+    "source": "arxiv"
+  }
+]

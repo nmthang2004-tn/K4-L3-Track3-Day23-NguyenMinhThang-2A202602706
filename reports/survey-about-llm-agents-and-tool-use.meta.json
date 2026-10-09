@@ -1,0 +1,25 @@
+{
+  "model": "openai:gpt-6-luna",
+  "elapsed_s": 547.0,
+  "subagent_calls": 7,
+  "tool_calls": {
+    "write_todos": 5,
+    "task": 7,
+    "ls": 3,
+    "glob": 1,
+    "read_file": 39,
+    "write_file": 2,
+    "execute": 2
+  },
+  "tokens": {
+    "input": 0,
+    "output": 0
+  },
+  "topic": "survey about LLM agents and tool use",
+  "n_sources": 18,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

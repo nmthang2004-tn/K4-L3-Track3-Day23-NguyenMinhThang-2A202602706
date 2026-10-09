@@ -1,0 +1,146 @@
+[
+  {
+    "n": 1,
+    "id": "arXiv:2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2023-03-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "arXiv:2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "arXiv:2406.05804",
+    "url": "https://arxiv.org/abs/2406.05804",
+    "title": "A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning",
+    "date": "2024-06 (exact date unavailable in retrieved note)",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "arXiv:2408.04682",
+    "url": "https://huggingface.co/papers/2408.04682",
+    "title": "ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities",
+    "date": "date not shown in retrieved note",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "arXiv:2507.21504",
+    "url": "https://arxiv.org/abs/2507.21504",
+    "title": "Evaluation and Benchmarking of LLM Agents: A Survey",
+    "date": "2025-08 (KDD proceedings dates; exact arXiv date unavailable)",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "arXiv:2509.18420",
+    "url": "https://arxiv.org/abs/2509.18420",
+    "title": "Instruction-Following Evaluation in Function Calling for Large Language Models",
+    "date": "2025-09-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "LLM06:2025",
+    "url": "https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-v2025.pdf",
+    "title": "OWASP Top 10 for LLM Applications 2025: Excessive Agency",
+    "date": "2024-11-18 (2025 edition release date in note)",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "arXiv:2503.18813",
+    "url": "https://arxiv.org/abs/2503.18813",
+    "title": "Defeating Prompt Injections by Design",
+    "date": "2025-06-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "arXiv:2506.01055",
+    "url": "https://arxiv.org/abs/2506.01055",
+    "title": "Simple Prompt Injection Attacks Can Leak Personal Data Observed by LLM Agents During Task Execution",
+    "date": "2025-06-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "arXiv:2407.00121",
+    "url": "https://huggingface.co/papers/2407.00121",
+    "title": "Introducing Function Calling Abilities via Multi-task Learning of Language Models",
+    "date": "date not shown in retrieved note",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "arXiv:2405.13966",
+    "url": "https://huggingface.co/papers/2405.13966",
+    "title": "On the Brittle Foundations of ReAct Prompting for Agentic Large Language Models",
+    "date": "2024-05-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "arXiv:2409.00920",
+    "url": "https://huggingface.co/papers/2409.00920",
+    "title": "ToolACE: Winning the Points of LLM Function Calling",
+    "date": "2024-09-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "arXiv:2307.16789",
+    "url": "https://huggingface.co/papers/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "2023-07-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "arXiv:2402.04253",
+    "url": "https://huggingface.co/papers/2402.04253",
+    "title": "AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls",
+    "date": "2024-02-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "arXiv:2310.13227",
+    "url": "https://huggingface.co/papers/2310.13227",
+    "title": "ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search",
+    "date": "2023-10-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "arXiv:2504.16563",
+    "url": "https://huggingface.co/papers/2504.16563",
+    "title": "Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution",
+    "date": "date not shown in retrieved note",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "arXiv:2506.19500",
+    "url": "https://arxiv.org/html/2506.19500",
+    "title": "NaviAgent: Graph-Driven Bilevel Planning for Scalable Tool Orchestration",
+    "date": "2025-06 (exact date unavailable in retrieved note)",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "arXiv:2510.10197",
+    "url": "https://arxiv.org/abs/2510.10197",
+    "title": "Don't Just Fine-tune the Agent, Tune the Environment",
+    "date": "2025-10-11",
+    "source": "arxiv"
+  }
+]

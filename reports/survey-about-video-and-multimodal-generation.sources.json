@@ -1,0 +1,170 @@
+[
+  {
+    "n": 1,
+    "id": "2405.03150",
+    "url": "https://arxiv.org/abs/2405.03150",
+    "title": "Video Diffusion Models: A Survey",
+    "date": "2024-11-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2412.07772",
+    "url": "https://arxiv.org/abs/2412.07772",
+    "title": "From Slow Bidirectional to Fast Autoregressive Video Diffusion Models",
+    "date": "2025-09-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "N/A",
+    "url": "https://github.com/Tencent/HunyuanVideo-I2V",
+    "title": "HunyuanVideo-I2V: A Customizable Image-to-Video Model based on HunyuanVideo",
+    "date": "2025-03-06",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "N/A",
+    "url": "https://deepmind.google/blog/fuel-your-creativity-with-new-generative-media-models-and-tools/",
+    "title": "Fuel your creativity with new generative media models and tools",
+    "date": "2025-05-20",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2505.02567",
+    "url": "https://arxiv.org/abs/2505.02567",
+    "title": "Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities",
+    "date": "2025-05 (retrieved version v6)",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2503.20215",
+    "url": "https://huggingface.co/papers/2503.20215",
+    "title": "Qwen2.5-Omni Technical Report",
+    "date": "2025-03-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2311.17982",
+    "url": "https://arxiv.org/abs/2311.17982",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "2023-11-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2410.19884",
+    "url": "https://arxiv.org/abs/2410.19884",
+    "title": "A Survey of AI-Generated Video Evaluation",
+    "date": "2024-10 (day not verified)",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2510.04999",
+    "url": "https://arxiv.org/abs/2510.04999",
+    "title": "Bridging Text and Video Generation: A Survey",
+    "date": "2025-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2412.17847",
+    "url": "https://arxiv.org/abs/2412.17847",
+    "title": "Bridging the Data Provenance Gap Across Text, Speech and Video",
+    "date": "2025-02-19",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2507.16869",
+    "url": "https://arxiv.org/abs/2507.16869",
+    "title": "Controllable Video Generation: A Survey",
+    "date": "2026-01-19 (landing-page metadata retrieved)",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2409.14993",
+    "url": "https://arxiv.org/html/2409.14993v3",
+    "title": "Multi-modal Generative AI: Multi-modal LLMs, Diffusions, and the Unification",
+    "date": "2025-11-25 (version shown by retrieved page)",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2502.04896",
+    "url": "https://arxiv.org/abs/2502.04896",
+    "title": "Goku: Flow Based Video Generative Foundation Models",
+    "date": "not stated in retrieved text",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2410.05954",
+    "url": "https://arxiv.org/abs/2410.05954",
+    "title": "Pyramidal Flow Matching for Efficient Video Generative Modeling",
+    "date": "2025-03-15 (retrieved version)",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2501.00103",
+    "url": "https://arxiv.org/abs/2501.00103",
+    "title": "LTX-Video: Realtime Video Latent Diffusion",
+    "date": "2024-12-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2509.22622",
+    "url": "https://huggingface.co/papers/2509.22622",
+    "title": "LongLive: Real-time Interactive Long Video Generation",
+    "date": "2025-09-26",
+    "source": "hf-daily"
+  },
+  {
+    "n": 17,
+    "id": "N/A",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "title": "Video generation models as world simulators",
+    "date": "2024-02-15",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "N/A",
+    "url": "https://runwayml.com/research/introducing-runway-gen-4",
+    "title": "Runway Gen-4: AI Video Generation with World Consistency",
+    "date": "2025-03-31",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "2405.09818",
+    "url": "https://arxiv.org/html/2405.09818",
+    "title": "Chameleon: Mixed-Modal Early-Fusion Foundation Models",
+    "date": "2024-05-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2506.18871",
+    "url": "https://arxiv.org/abs/2506.18871",
+    "title": "OmniGen2: Towards Instruction-Aligned Multimodal Generation",
+    "date": "2025-06-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "1e6057620ed314b0020b3a30284b0f83",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/1e6057620ed314b0020b3a30284b0f83-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "title": "VideoUFO: A Million-Scale User-Focused Dataset for Text-to-Video Generation",
+    "date": "2025 (exact day not retrieved)",
+    "source": "web"
+  }
+]

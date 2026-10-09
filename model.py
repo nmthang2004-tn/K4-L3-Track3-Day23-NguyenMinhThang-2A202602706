@@ -36,7 +36,7 @@ def _env(*names):
 
 def make_model():
     """Return a chat model configured from the environment."""
-    name = _env("LAB_MODEL", "OPENAI_DEPLOYMENT_MODEL")
+    name = _env("LAB_MODEL", "OPENAI_DEPLOYMENT_MODEL", "OPENAI_MODEL")
     if not name:
         raise RuntimeError(HELP)
     # Only send a temperature when asked: some reasoning models reject any non-default value.
